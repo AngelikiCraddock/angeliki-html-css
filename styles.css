@@ -37,6 +37,10 @@ article {
   margin-left: auto;
 }
 
+.byline {
+  font-family: Tahoma, Arial, sans-serif;
+}
+
 dl {
   border-bottom: 1px grey dotted;
   border-top: 1px grey dotted;
@@ -112,4 +116,4 @@ footer {
 footer p {
   font: 1.2rem Arial;
 }
-.byline {font-family: Tahoma, Arial, sans-serif;}
+
